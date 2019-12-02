@@ -17,10 +17,10 @@ let data = {
   'handle': chalk.cyan('carlobolla'),
   'work': chalk.white('Student Full-stack Developer'),
   'skills': chalk.white('Python, C++, Java, PHP'),
-  'learning': chalk.white('NodeJS, Go')
+  'learning': chalk.white('NodeJS, Go'),
   'twitter': chalk.cyan('https://twitter.com/carlobolla'),
   'github': chalk.cyan('https://github.com/carlobolla'),
-  'linkedin': chalk.cyan('https://www.linkedin.com/in/carlo-bollini/'),
+  'linkedin': chalk.cyan('https://www.linkedin.com/in/carlo-bollini'),
   'web': chalk.cyan('https://carlobolla.xyz'),
   'npx': chalk.white('npx carlobolla'),
   'labelWork': chalk.white.bold('      Work:'),
