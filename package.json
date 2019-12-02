@@ -8,7 +8,7 @@
   },
   "bin": {
     "carlobolla": "./bin/card.js"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/carlobolla/npmcard.git"
