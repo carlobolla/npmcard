@@ -1,6 +1,6 @@
 {
   "name": "carlobolla",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "A personal card for Carlo Bollini (@carlobolla)",
   "main": "bin/card.js",
   "scripts": {
