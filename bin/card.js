@@ -16,8 +16,8 @@ let options = {
 let data = {
   'name': chalk.white.bold('Carlo Bollini /'),
   'handle': chalk.green.bold('carlobolla'),
-  'work': chalk.white('Student Full-stack Developer'),
-  'skills': chalk.white('Python | MERN stack | Angular | C# | Java'),
+  'work': chalk.white('Fullstack Developer'),
+  'skills': chalk.white('C# .NET | Angular | React | Java | Python'),
   'learning': chalk.white('Go'),
   'twitter': chalk.green.underline('https://twitter.com/carlobolla'),
   'github': chalk.green.underline('https://github.com/carlobolla'),
