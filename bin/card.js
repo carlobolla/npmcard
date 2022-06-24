@@ -22,7 +22,7 @@ let data = {
   'twitter': chalk.green.underline('https://twitter.com/carlobolla'),
   'github': chalk.green.underline('https://github.com/carlobolla'),
   'linkedin': chalk.green.underline('https://www.linkedin.com/in/carlo-bollini'),
-  'web': chalk.green.underline('https://carlobolla.xyz'),
+  'web': chalk.green.underline('https://carlobollini.com'),
   'npx': chalk.green('npx carlobolla'),
   'labelWork': chalk.white.bold('      Work:'),
   'labelSkills': chalk.white.bold('    Skills:'),
